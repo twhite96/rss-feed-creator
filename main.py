@@ -10,9 +10,20 @@ import pprint
 import datetime
 import json
 
+# We'll need to instantiate the Typer class so we can
+# work with it later when we need to get input
+# from the command line
 app = typer.Typer()
 
+# Here I created a function where I pass a default parameter
+# and assign that parameter to the app variable I created above the function
+# I have not run this yet so not sure of any scope issues
+
 def main(url: str = app.Option(...,prompt="Please enter the url you'd like to parse")):
+  """
+  This is where I'll place morst of 
+  the business logic for this script
+  """
   app.echo(f"{url}")
   fp = feedparser.parse(url)
   fp['feed']['title']
