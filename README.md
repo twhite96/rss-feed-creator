@@ -1,9 +1,7 @@
 
-# RSS Feed Parser
+# RSS Feed Creator
 
-> A feed parser built in Python
-
-
+> An RSS feed creator CLI built in Python
 
 
 ## Acknowledgements
@@ -161,6 +159,4 @@ To run tests, run the following command
   npm run test
 ```
 
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+<img style="text-align: center;" src="_media/logo.svg">
