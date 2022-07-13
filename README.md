@@ -161,5 +161,6 @@ To run tests, run the following command
 ```bash
   npm run test
 ```
-
-<img align="center" src="img/logo.svg">
+<p align="center">
+  <img src="img/logo.svg" width="300">
+</p>
