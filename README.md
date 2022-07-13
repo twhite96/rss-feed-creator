@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="img/icon.svg" width="900">
+  <img src="img/icon.svg">
 </p>
+
 # RSS Feed Creator
 
 > An RSS feed creator CLI built in Python
