@@ -16,7 +16,7 @@
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@tiff](https://www.github.com/twhite96)
 
 
 ## Badges
