@@ -4,3 +4,5 @@ typer-example
 .vscode/
 
 img/.DS_Store
+
+docs/_media/.DS_Store
