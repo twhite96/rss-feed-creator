@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="img/icon.svg" width="900">
+</p>
 # RSS Feed Creator
 
 > An RSS feed creator CLI built in Python
@@ -159,4 +161,4 @@ To run tests, run the following command
   npm run test
 ```
 
-<img align="center" src="media/logo.svg">
+<img align="center" src="img/logo.svg">
