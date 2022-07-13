@@ -3,6 +3,7 @@
 
 import feedparser
 import typer
+from typing import Optional
 import sys
 import datetime
 import urllib
@@ -19,7 +20,7 @@ app = typer.Typer()
 # and assign that parameter to the app variable I created above the function
 # I have not run this yet so not sure of any scope issues
 
-def main(url: str = app.Option(...,prompt="Please enter the url you'd like to parse")):
+def main(url: str = typer.Option(...,prompt="Please enter the url you'd like to parse")):
   """
   This is where I'll place morst of 
   the business logic for this script
@@ -30,7 +31,5 @@ def main(url: str = app.Option(...,prompt="Please enter the url you'd like to pa
   print(fp)
 
 
-
-
 if __name__ == "__main__":
-    app()
+    main()
