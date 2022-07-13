@@ -1,9 +1,7 @@
 
-# RSS Feed Parser
+# RSS Feed Creator
 
-> A feed parser built in Python
-
-
+> An RSS feed creator CLI built in Python
 
 
 ## Acknowledgements
