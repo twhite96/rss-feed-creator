@@ -4,5 +4,6 @@
 - Plenty of options
 - Very few external libraries
 - Color text in CLI for processes and errors
+  
 [GitHub](https://github.com/twhite96/rss-feed-parser/)
 [Getting Started](#rss-feed-parser)
