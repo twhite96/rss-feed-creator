@@ -159,4 +159,4 @@ To run tests, run the following command
   npm run test
 ```
 
-<img style="text-align: center;" src="_media/logo.svg">
+<img align="center" src="media/logo.svg">
