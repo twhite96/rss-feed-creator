@@ -1,27 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+<<<<<<< Updated upstream
          <loc>None</loc>
+=======
+         <loc>https://rsscreator.tiff.run/</loc>
+>>>>>>> Stashed changes
          <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+<<<<<<< Updated upstream
          <loc>None</loc>
+=======
+         <loc>https://rsscreator.tiff.run/HowToUse/Getting%20Started/</loc>
+>>>>>>> Stashed changes
          <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+<<<<<<< Updated upstream
          <loc>None</loc>
+=======
+         <loc>https://rsscreator.tiff.run/HowToUse/Install/</loc>
+>>>>>>> Stashed changes
          <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+<<<<<<< Updated upstream
          <loc>None</loc>
+=======
+         <loc>https://rsscreator.tiff.run/HowToUse/Options/</loc>
+>>>>>>> Stashed changes
          <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+<<<<<<< Updated upstream
          <loc>None</loc>
+=======
+         <loc>https://rsscreator.tiff.run/HowToUse/Usage/</loc>
+>>>>>>> Stashed changes
          <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>

@@ -20,4 +20,8 @@ def main(
     print(name, birth, manufacturer, date)
 
 if __name__ == "__main__":
+<<<<<<< Updated upstream
     typer.run(main)n
+=======
+    typer.run(main)
+>>>>>>> Stashed changes

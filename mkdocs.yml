@@ -20,10 +20,26 @@ theme:
     text: Fira Code
     code: Fira Code
   palette:
-    primary: white
-    accent: cyan
+    # Light mode
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: orange
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 site_name: RSS Feed Creator
 site_author: Tiffany White
+site_url: "https://rsscreator.tiff.run/"
+dev_addr: "0.0.0.0:3001"
 site_description: Docs for a feed creator CLI built with Python.
 markdown_extensions:
   - admonition
