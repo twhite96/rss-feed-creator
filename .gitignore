@@ -8,3 +8,5 @@ img/.DS_Store
 docs/_media/.DS_Store
 
 .DS_Store
+
+.idea/
