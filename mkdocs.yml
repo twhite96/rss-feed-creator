@@ -40,6 +40,9 @@ theme:
         name: Switch to light mode
 site_name: RSS Feed Creator
 site_author: Tiffany White
+copyright: "Copyright &copy; 2022 Tiffany White"
+repo_url: https://github.com/twhite96/rss-feed-creator
+repo_name: twhite96/rss-feed-creator
 site_url: "https://rsscreator.tiff.run/"
 dev_addr: "0.0.0.0:3001"
 site_description: Docs for a feed creator CLI built with Python.
