@@ -1,0 +1,1 @@
+from feedgen.feed import FeedGenerator
